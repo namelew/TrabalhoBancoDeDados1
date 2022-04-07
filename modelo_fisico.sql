@@ -57,5 +57,5 @@ CREATE TABLE IF NOT EXISTS grupoEvento(
 );
 
 INSERT INTO tipo(id, nome) VALUES(01, "alerta");
-INSERT INTO tipo(id, nome) VALUES(02, "moderação");
+INSERT INTO tipo(id, nome) VALUES(02, 'moderação');
 INSERT INTO tipo(id, nome) VALUES(03, "status");
